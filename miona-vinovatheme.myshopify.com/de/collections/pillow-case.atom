@@ -1,0 +1,4830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://miona-vinovatheme.myshopify.com/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://miona-vinovatheme.myshopify.com/de/collections/pillow-case.atom"/>
+  <title>Coolmate-vinovatheme</title>
+  <updated>2023-06-20T05:46:33-04:00</updated>
+  <author>
+    <name>Coolmate-vinovatheme</name>
+  </author>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+    <published>2023-06-20T05:46:33-04:00</published>
+    <updated>2023-06-20T05:46:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/foldover-turtleneck-jumper"/>
+    <title>Foldover turtleneck</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_77d52bae-474b-40df-a9a8-f10f54b25da9.jpg?v=1687254403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Escada<br>
+        <strong>Art: </strong>Jeans<br>
+        <strong>Preis: </strong>
+            15.00 - 20.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/foldover-turtleneck-jumper">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Blouses</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Vinova</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>DarkGrey / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>MediumAquaMarine / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO572</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888243003438</id>
+      <title>Brown / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+    <published>2023-06-20T05:45:37-04:00</published>
+    <updated>2023-06-20T05:45:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/basic-sweat-joggers"/>
+    <title>Basic sweat joggers</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Zalando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_6822b40f-1f51-44c8-96dd-9ead0d644d32.jpg?v=1687254350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Zalando<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            11.00 - 17.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/basic-sweat-joggers">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Vinova</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xs / LightGray</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CLO036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xs / Gold</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CLO064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xs / Black</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CLO043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xs / SeaGreen</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CLO050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xs / Crimson</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>CLO057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>s / LightGray</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>s / Gold</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>s / Black</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>s / SeaGreen</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>s / Crimson</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>m / LightGray</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>m / Gold</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>m / Black</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>m / SeaGreen</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>m / Crimson</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>l / LightGray</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>l / Gold</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>l / Black</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>l / SeaGreen</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>l / Crimson</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xl / LightGray</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xl / Gold</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xl / Black</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xl / SeaGreen</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xl / Crimson</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xxl / LightGray</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xxl / Gold</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xxl / Black</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xxl / SeaGreen</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>xxl / Crimson</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>3xl / LightGray</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>3xl / Gold</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>3xl / Black</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>3xl / SeaGreen</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242610222</id>
+      <title>3xl / Crimson</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+    <published>2023-06-20T05:45:26-04:00</published>
+    <updated>2023-06-20T05:45:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/high-waist-cargo-joggers"/>
+    <title>High waist cargo joggers</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Cavalli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_beff6caf-b266-47e6-8f64-fe39cbac2b53.jpg?v=1687254336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Cavalli<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            25.00 - 29.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/high-waist-cargo-joggers">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>RoyalBlue / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>RoyalBlue / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>RoyalBlue / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>RoyalBlue / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>RoyalBlue / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Peru / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Peru / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Peru / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Peru / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Peru / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>White / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>White / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>White / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>White / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>White / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Khaki / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Khaki / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Khaki / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Khaki / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242544686</id>
+      <title>Khaki / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+    <published>2023-06-20T05:45:15-04:00</published>
+    <updated>2023-06-20T05:45:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/loose-fit-trousers-with-belt"/>
+    <title>Loose fit trousers with belt</title>
+    <s:type>Summer</s:type>
+    <s:vendor>H&amp;M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_6777d819-e99e-40ae-8d32-d182e52e224b.jpg?v=1687254324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>H&amp;M<br>
+        <strong>Art: </strong>Summer<br>
+        <strong>Preis: </strong>
+            33.00 - 39.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/loose-fit-trousers-with-belt">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / sx</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>CLO766</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / s</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CLO767</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / m</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CLO768</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / l</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CLO769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / xl</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>CLO770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / xxl</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CLO771</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Plum / 3xl</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>CLO772</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / sx</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>CLO773</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / s</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CLO774</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / m</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CLO775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / l</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CLO776</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / xl</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>CLO777</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / xxl</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CLO778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>Beige / 3xl</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>CLO779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / sx</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>CLO780</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / s</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CLO781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / m</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CLO782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / l</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>CLO783</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / xl</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>CLO784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / xxl</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CLO785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242446382</id>
+      <title>PaleVioletRed / 3xl</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>CLO786</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+    <published>2023-06-20T05:44:17-04:00</published>
+    <updated>2023-06-20T05:44:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/basic-jumper"/>
+    <title>Basic jumper for men</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_dab7c497-baaf-4056-9484-714e4e2e7a02.jpg?v=1687254271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            55.00 - 59.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/basic-jumper">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Vinova</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>White / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>White / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>White / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>White / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>White / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Black / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Black / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Black / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Black / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>MidnightBlue / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>MidnightBlue / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>MidnightBlue / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>MidnightBlue / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>MidnightBlue / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>SeaGreen / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>SeaGreen / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>SeaGreen / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>SeaGreen / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>SeaGreen / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Crimson / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Crimson / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Crimson / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Crimson / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Crimson / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Gold / xs</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>CLO030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Gold / s</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>CLO031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Gold / m</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>CLO032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Gold / l</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>CLO033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888242085934</id>
+      <title>Gold / xl</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>CLO034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+    <published>2023-06-20T05:43:55-04:00</published>
+    <updated>2023-06-20T05:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/eco-aware-coat"/>
+    <title>Coat with inverted collar</title>
+    <s:type>Blouses</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_5f30d317-3150-4791-aaef-cacef23c284d.jpg?v=1687254243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>D&amp;G<br>
+        <strong>Art: </strong>Blouses<br>
+        <strong>Preis: </strong>
+            22.00 - 28.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/eco-aware-coat">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Tomford</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / m</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / l</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / xl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / xxl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>BurlyWood / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / m</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / l</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / xl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / xxl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>RoyalBlue / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / m</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / l</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / xl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / xxl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241954862</id>
+      <title>DimGrey / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+    <published>2023-06-20T05:43:41-04:00</published>
+    <updated>2023-06-20T05:43:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/button-down-jumper"/>
+    <title>Button down jumper</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_94067eef-ea28-4a6c-8b7b-18aa19f13389.jpg?v=1687254233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>Jeans<br>
+        <strong>Preis: </strong>
+            17.00 - 23.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/button-down-jumper">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Louis Vuitton</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LemonChiffon / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>LightBlue / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO343</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>DarkOrange / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241889326</id>
+      <title>White / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+    <published>2023-06-20T05:43:16-04:00</published>
+    <updated>2023-06-20T05:43:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/floral-dress"/>
+    <title>Slogan graphic tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Fendi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_63f29d71-f4ab-4af7-9520-f25409b5e31e.jpg?v=1687254206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Fendi<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            12.00 - 16.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/floral-dress">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Police</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Black / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Black / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Black / l</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>DeepSkyBlue / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>DeepSkyBlue / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>DeepSkyBlue / l</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>DeepSkyBlue / xl</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>DeepSkyBlue / xxl</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Khaki / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Khaki / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Khaki / l</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Khaki / xl</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Khaki / xxl</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Crimson / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Crimson / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Crimson / l</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Crimson / xl</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241758254</id>
+      <title>Crimson / xxl</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+    <published>2023-06-20T05:42:12-04:00</published>
+    <updated>2023-06-20T05:42:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/gimme-the-scoop-lace-up-crop-top"/>
+    <title>Levi essential western</title>
+    <s:type>Women</s:type>
+    <s:vendor>Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_18251d49-35f4-4c07-a947-69e584376bce.jpg?v=1687254144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Dior<br>
+        <strong>Art: </strong>Women<br>
+        <strong>Preis: </strong>
+            15.00 - 21.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/gimme-the-scoop-lace-up-crop-top">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>indianred</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>xs</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>s</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>m</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>l</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO708</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>xl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO709</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>xxl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241397806</id>
+      <title>3xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO711</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+    <published>2023-06-20T05:42:04-04:00</published>
+    <updated>2023-06-20T05:42:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/faux-suede-biker-jacket"/>
+    <title>Faux suede biker jacket</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Puma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_3329b802-e3bd-4608-b5d2-634a05b6f85a.jpg?v=1687254131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Puma<br>
+        <strong>Art: </strong>Jacket<br>
+        <strong>Preis: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>darkgoldenrod</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>sx</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>s</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>l</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>xl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>xxl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241332270</id>
+      <title>3xl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888241037358</id>
+    <published>2023-06-20T05:41:08-04:00</published>
+    <updated>2023-06-20T05:41:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/parka-jacket-with-hood"/>
+    <title>Parka jacket with hood</title>
+    <s:type>Women</s:type>
+    <s:vendor>Puma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_69e3cbcb-e1e8-4fd6-8376-0c675c06364a.jpg?v=1687254075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Puma<br>
+        <strong>Art: </strong>Women<br>
+        <strong>Preis: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241037358</id>
+      <title>Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241037358</id>
+      <title>Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241037358</id>
+      <title>Green</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888241037358</id>
+      <title>Yellow</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+    <published>2023-06-20T05:40:33-04:00</published>
+    <updated>2023-06-20T05:40:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/lightweight-bomber-jacket"/>
+    <title>Lightweight bomber jacket</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Escada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_72e9f875-ce27-40e0-8c1c-fdfc3d974734.jpg?v=1687254040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Escada<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            31.00 - 35.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/lightweight-bomber-jacket">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+      <title>s</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CLO712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+      <title>m</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CLO713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+      <title>l</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>CLO714</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+      <title>xl</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>CLO715</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240840750</id>
+      <title>xxl</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>CLO716</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+    <published>2023-06-20T05:40:26-04:00</published>
+    <updated>2023-06-20T05:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/blended-wool-coat"/>
+    <title>Blended wool coat</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Vinova</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_468ca638-e647-4b86-8c79-b9d1fe2074cb.jpg?v=1687254032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Vinova<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            14.00 - 18.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/blended-wool-coat">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Vinova</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+      <title>sx</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+      <title>m</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+      <title>l</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+      <title>xl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240742446</id>
+      <title>xxl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+    <published>2023-06-20T05:39:57-04:00</published>
+    <updated>2023-06-20T05:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/rick-morty-t-shirt"/>
+    <title>Rick &amp; Morty T-shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Cavalli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_fec1f277-1996-4f9a-b1bc-e8f4772e8fdc.jpg?v=1687254006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Cavalli<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            22.00 - 26.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/rick-morty-t-shirt">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Kenzo</s:tag>
+    <s:tag>T-Shirt</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DeepSkyBlue / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DeepSkyBlue / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DeepSkyBlue / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DeepSkyBlue / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DeepSkyBlue / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DarkTurquoise / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DarkTurquoise / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DarkTurquoise / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DarkTurquoise / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>DarkTurquoise / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>RebeccaPurple / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>RebeccaPurple / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>RebeccaPurple / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>RebeccaPurple / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240513070</id>
+      <title>RebeccaPurple / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+    <published>2023-06-20T05:39:43-04:00</published>
+    <updated>2023-06-20T05:39:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/sleeveless-coat"/>
+    <title>Woman bomber vest</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Hermes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_3d6919aa-67fb-4d45-9108-a25b9ef06081.jpg?v=1687253994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Hermes<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            24.00 - 28.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/sleeveless-coat">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Blouses</s:tag>
+    <s:tag>Kenzo</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>Khaki / s</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO787</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>Khaki / m</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO788</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>Khaki / l</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>Khaki / xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO790</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>Khaki / xxl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>LightGreen / s</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>LightGreen / m</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>LightGreen / l</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>LightGreen / xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>LightGreen / xxl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>DarkSalmon / s</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>DarkSalmon / m</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>DarkSalmon / l</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO801</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>DarkSalmon / xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240447534</id>
+      <title>DarkSalmon / xxl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+    <published>2023-06-20T05:39:31-04:00</published>
+    <updated>2023-06-20T05:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/sherpa-denim-jacket"/>
+    <title>Sherpa denim jacket</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Vinova</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/3_cf3a35ed-254a-4d62-9a2e-24254e42c60f.jpg?v=1687253982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Vinova<br>
+        <strong>Art: </strong>Outerwear<br>
+        <strong>Preis: </strong>
+            12.00 - 19.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/sherpa-denim-jacket">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Kenzo</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>sx</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>s</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>CLO1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>m</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CLO1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>l</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>xl</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>xxl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>3xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO1007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240381998</id>
+      <title>4xl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+    <published>2023-06-20T05:39:07-04:00</published>
+    <updated>2023-06-20T05:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/blouse-with-decorative-attachments"/>
+    <title>Blouse with decorative</title>
+    <s:type>Summer</s:type>
+    <s:vendor>Prada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_587a696e-a6c2-42ac-a120-a7ca346eb4ea.jpg?v=1687253960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Prada<br>
+        <strong>Art: </strong>Summer<br>
+        <strong>Preis: </strong>
+            15.00 - 21.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/blouse-with-decorative-attachments">(42 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Blouses</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Vinova</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO283</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Black / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightSteelBlue / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Teal / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>Plum / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO306</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>LightPink / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO313</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / s</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CLO314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / m</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>CLO315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / xl</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / xxl</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / 3xl</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240250926</id>
+      <title>White / 4xl</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+    <published>2023-06-20T05:38:53-04:00</published>
+    <updated>2023-06-20T05:38:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/quilted-jacket-with-high-stand-up-collar"/>
+    <title>Quilted jacket with high</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>Boss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_a65094a8-2044-46c2-ad97-3cd5d544351d.jpg?v=1687253945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Boss<br>
+        <strong>Art: </strong>Jacket<br>
+        <strong>Preis: </strong>
+            5.00 - 9.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/quilted-jacket-with-high-stand-up-collar">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Blouses</s:tag>
+    <s:tag>Kenzo</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>LightSteelBlue / s</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CLO953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>LightSteelBlue / m</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>CLO954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>LightSteelBlue / l</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CLO955</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>LightSteelBlue / xl</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CLO956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>LightSteelBlue / xxl</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CLO957</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PowderBlue / s</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CLO959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PowderBlue / m</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>CLO960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PowderBlue / l</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CLO961</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PowderBlue / xl</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CLO962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PowderBlue / xxl</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CLO963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>HotPink / s</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CLO965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>HotPink / m</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>CLO966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>HotPink / l</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CLO967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>HotPink / xl</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CLO968</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>HotPink / xxl</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CLO969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>Plum / s</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CLO971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>Plum / m</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>CLO972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>Plum / l</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CLO973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>Plum / xl</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CLO974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>Plum / xxl</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CLO975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PaleGoldenRod / s</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>CLO977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PaleGoldenRod / m</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>CLO978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PaleGoldenRod / l</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>CLO979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PaleGoldenRod / xl</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CLO980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240152622</id>
+      <title>PaleGoldenRod / xxl</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>CLO981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+    <published>2023-06-20T05:38:40-04:00</published>
+    <updated>2023-06-20T05:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/eco-aware-hooded-transitional-jacket"/>
+    <title>Eco aware hooded jacket</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Chanel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_15a3b5cb-a384-47c0-8238-a5fa609d9e05.jpg?v=1687253931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Chanel<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            22.00 - 27.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/eco-aware-hooded-transitional-jacket">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Tomford</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO424</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / xxl</title>
+      <s:price currency="USD">26.21</s:price>
+      <s:sku>CLO428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Gold / 3xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO433</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">26.21</s:price>
+      <s:sku>CLO434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>Black / 3xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / xxl</title>
+      <s:price currency="USD">26.21</s:price>
+      <s:sku>CLO440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>DarkSlateGrey / 3xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / s</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / m</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / xxl</title>
+      <s:price currency="USD">26.21</s:price>
+      <s:sku>CLO446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888240087086</id>
+      <title>FireBrick / 3xl</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+    <published>2023-06-20T05:38:11-04:00</published>
+    <updated>2023-06-20T05:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/long-sleeved-shirt"/>
+    <title>Long-sleeved Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_1481f4e4-3a45-4338-bc88-3b8e5a7e6704.jpg?v=1687253902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            25.00 - 30.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/long-sleeved-shirt">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO742</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO743</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO744</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO745</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO746</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>White / 3xl</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CLO747</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO748</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO749</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO751</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>DeepSkyBlue / 3xl</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CLO753</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO754</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO755</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO756</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO757</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO758</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Crimson / 3xl</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CLO759</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / s</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO760</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / m</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO761</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / l</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>CLO762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO763</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / xxl</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>CLO764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239956014</id>
+      <title>Khaki / 3xl</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CLO765</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+    <published>2023-06-20T05:38:00-04:00</published>
+    <updated>2023-06-20T05:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/personality-jacket"/>
+    <title>Personality jacket</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Rolex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_90edff81-45ac-4d6d-b503-97677d4f4dd2.jpg?v=1687253889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Rolex<br>
+        <strong>Art: </strong>T-Shirt<br>
+        <strong>Preis: </strong>
+            21.00 - 28.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/personality-jacket">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10 - $100</s:tag>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Denim</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / s</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / m</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightBlue / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / s</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / m</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>PaleVioletRed / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / s</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>CLO881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / m</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / l</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CLO883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / xl</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CLO884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / xxl</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>CLO885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239857710</id>
+      <title>LightGoldenRodYellow / 3xl</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CLO886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+    <published>2023-06-20T05:36:57-04:00</published>
+    <updated>2023-06-20T05:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/hoodie-coffee-christmas"/>
+    <title>Hoodie coffee christmas</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_94ce019e-fd5b-4095-a28a-77069f20c319.jpg?v=1687253823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>Denim<br>
+        <strong>Preis: </strong>
+            12.00 - 23.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/hoodie-coffee-christmas">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Louis Vuitton</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / sx</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SeaGreen / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Pink / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / s</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / m</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / xl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>SkyBlue / xxl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / sx</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / s</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / l</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / xl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239333422</id>
+      <title>Violet / xxl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+    <published>2023-06-20T05:36:49-04:00</published>
+    <updated>2023-06-20T05:36:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/baby-bodysuits-christmas"/>
+    <title>Baby bodysuits christmas</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_20bf5ecb-678b-4837-88ad-1b7c0c611ed8.jpg?v=1687253815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>Denim<br>
+        <strong>Preis: </strong>
+            12.00 - 23.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/baby-bodysuits-christmas">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Louis Vuitton</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / sx</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CLO321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Red / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Tomato / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / s</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / m</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / l</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / xl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>Moccasin / xxl</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / sx</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / s</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / m</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / l</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / xl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239267886</id>
+      <title>DarkOrchid / xxl</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+    <published>2023-06-20T05:36:29-04:00</published>
+    <updated>2023-06-20T05:36:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/hoodie-yohoho"/>
+    <title>Hoodie yohoho</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_0b359226-cd54-45ad-92e3-8171884c2dd2.jpg?v=1687253794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>Denim<br>
+        <strong>Preis: </strong>
+            10.00 - 23.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/hoodie-yohoho">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Louis Vuitton</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / sx</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CLO321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Brown / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / sx</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / m</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / l</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / xl</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239104046</id>
+      <title>Crimson / xxl</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+    <published>2023-06-20T05:36:16-04:00</published>
+    <updated>2023-06-20T05:36:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://miona-vinovatheme.myshopify.com/de/products/reindeer-phone-case"/>
+    <title>Reindeer phone case</title>
+    <s:type>Denim</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0046/1471/7486/products/1_e9d6838a-2c25-4fee-8812-a95c6d47722c.jpg?v=1687253781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Gucci<br>
+        <strong>Art: </strong>Denim<br>
+        <strong>Preis: </strong>
+            10.00 - 23.00
+            <a href="https://miona-vinovatheme.myshopify.com/de/products/reindeer-phone-case">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p class="des des_1"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854">
+<ul class="style_type_1">
+<li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li>
+<li>DO NOT BLEACH</li>
+<li>DO NOT TUMBLE DRY</li>
+<li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li>
+<li>DO NOT DRY CLEAN</li>
+</ul>
+<br>
+<h4>Sample Ordered Lista</h4>
+<ol class="style_type_2">
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<br>
+<h4>Sample Paragraph Text</h4>
+<p class="des des_2">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 62px; top: 275px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acessories</s:tag>
+    <s:tag>Louis Vuitton</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vendor Levi&apos;s</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / s</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / m</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / l</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / xl</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>Black / xxl</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / sx</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>CLO321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkGreen / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / sx</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CLO345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / s</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>CLO346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / m</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>CLO347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / l</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>CLO348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / xl</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CLO349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://miona-vinovatheme.myshopify.com/de/products/6888239005742</id>
+      <title>DarkRed / xxl</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CLO350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
